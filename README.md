@@ -9,4 +9,4 @@ Created with CodeSandbox
 
 > CodeSandBox (For Codes) : https://gn7y0.csb.app/
 
-- For Installing on Local Machine `npm install && npm start`
+- For Installing on Local Machine just download and extract this Repo and open Terminal inside Directory then execute `npm install && npm start`
