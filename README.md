@@ -8,3 +8,5 @@ Created with CodeSandbox
 > Deployed over https://csb-gn7y0.netlify.app/
 
 > CodeSandBox (For Codes) : https://gn7y0.csb.app/
+
+- For Installing on Local Machine `npm install && npm start`
